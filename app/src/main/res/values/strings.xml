@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CoreTwo</string>
+    <string name="item_name">Item Name</string>
+    <string name="item_category">Item Category</string>
+    <string name="item_price">Price: %d</string>
+    <string name="save">Save</string>
+    <string name="item_rating">Item Rating</string>
+    <string name="next">Next</string>
+    <string name="borrow">Borrow</string>
+    <string name="days">Days</string>
+    <string name="total_price_format">Total Price: $%d</string>
+    <string name="due_back_date">Due back: %1$s</string>
+    <string name="back">Back</string>
+</resources>
